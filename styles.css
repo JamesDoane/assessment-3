@@ -25,7 +25,7 @@ a {
 }
 
 a:visited {
-	color: crimson;
+	color: purple;
 }
 
 
@@ -35,4 +35,11 @@ input {
 
 img {
 	max-width: 300px;
+}
+.ylwbtn{
+	background-color: yellow;
+	font-size: xx-large;
+}
+#random{
+	margin-left: 40px;
 }
